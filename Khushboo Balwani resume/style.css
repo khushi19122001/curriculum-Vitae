@@ -1,0 +1,22 @@
+*{
+    padding: 2px;
+    margin: 2px;
+}
+
+.outer{
+    width: 700px;
+    height: 800px;
+    margin: 0px auto;
+}
+
+.outer h1{
+    text-align: center;
+}
+p{
+    font-size: 15px;
+}
+
+
+ul{
+    margin-left: 15px;
+}
